@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['..\\..\\..\\.spyder-py3\\temp.py', 'main.py', 'models\\produit.py', 'models\\vente.py', 'models\\utilisateur.py', 'data\\utilisateur.json', 'interface\\login_page.py', 'interface\\vendeur_page.py', 'interface\\admin_page.py', 'models\\__init__.py', 'interface\\interface_vente.py', 'interface\\interface_vitrine.py', 'data.py', 'stock_manager.py', 'data\\stocks.json', 'auth_manager.py', 'data\\ventes.json', 'interface\\stock.json', 'interface\\interface_accueil.py', 'interface\\__init__.py']
+
+[main]
+version = 0.2.0
+recent_files = []
+
